@@ -1,3 +1,13 @@
+overall view:-
+![image](https://user-images.githubusercontent.com/86391985/214665976-f714127b-6923-4c59-8130-5369b810dd6a.png)
+
+left part of the site:-
+![image](https://user-images.githubusercontent.com/86391985/214663190-33a1da5b-8603-4da5-8099-6b19e968fdf8.png)
+
+right part:-
+![image](https://user-images.githubusercontent.com/86391985/214663391-468a5811-585c-47ff-82f6-c4b555b457f3.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
