@@ -10,6 +10,7 @@
 }
 .video-player-container {
   position: relative;
+  align-items: center;
   width: 50% !important;
   height: 100% !important;
   left: 0 !important;
@@ -17,6 +18,11 @@
   overflow: hidden !important;
 }
 
+.help{
+  margin-top: 190px;
+  margin-left: 100px;
+  object-fit: contain;
+}
 .video-player {
   position: absolute !important;
   width: 100% !important;
